@@ -1,0 +1,11 @@
+{
+  "id": "{998e51a3c41c4ea19e5624febfdc77c5}",
+  "name": "Michl",
+  "type": 3,
+  "vendor": "Michl_Test1",
+  "aliases": [ "Michl AVR Test1" ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "YMC"
+}
